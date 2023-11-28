@@ -42,8 +42,8 @@ Introducing kidszone – the ultimate mobile app for inquisitive young minds und
 
 ```bash
 # Clone the repository
-git clone https://github.com/fareedaibrahim/kidszone.git
-
+git clone https://github.com/k0ns0l/KidZone.git
+ 
 # Navigate to the project directory
 cd kidszone
 
