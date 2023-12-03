@@ -16,14 +16,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.abdoulrasheed.kidszone"
+      "bundleIdentifier": "com.k0ns0l.kidszone"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.abdoulrasheed.kidszone"
+      "package": "com.k0ns0l.kidszone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,7 +32,13 @@
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/3e1e6b1a-222e-41fd-a374-513f7919d812"
-    }
+      "url": "https://u.expo.dev/49ec9569-d247-4511-a34a-fd3739b7e42c"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "49ec9569-d247-4511-a34a-fd3739b7e42c"
+      }
+    },
+    "owner": "k0ns0l"
   }
 }
