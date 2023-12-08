@@ -11,6 +11,7 @@
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Special Thanks](#special-thanks)
+- [Project Report](#project-report---online)
 
 ## Overview
 
@@ -76,5 +77,9 @@ We would like to extend our heartfelt gratitude to the following individuals for
 - Mr A. U. Atiku (Lecturer & Project Supervisor @MAU Yola, Computer Science Dept.)
 - Abdulrasheed Ibrahim ;) Follow on [GitHub](https://github.com/Abdoulrasheed)
 - and the team - Mansur Hamman Buba, Farida Ibrahim Dan-iya, and Ahmed Ibrahim.
+
+## Project Report - *Online!*
+
+Feel free to read material source on [Google Docs](https://docs.google.com/document/d/1XnynWMWogqmjEvv-QjIyzeO8IODdLqB6p10daDjUNNE/edit?usp=drive_link).
 
 Made with &#x2764; 
